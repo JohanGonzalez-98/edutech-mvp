@@ -34,3 +34,6 @@ figma_img/
 figma_raw.json
 node_*.json
 fetch_imgs.mjs
+
+# Config de herramientas (Claude Code / preview)
+.claude/
